@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on Bohannan Lab</title>
-    <link>https://amorris28.github.io/bohannan_website/tags/code/</link>
+    <link>/bohannan_website/tags/code/</link>
     <description>Recent content in code on Bohannan Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>bohannan@uoregon.edu (Brendan Bohannan)</managingEditor>
     <webMaster>bohannan@uoregon.edu (Brendan Bohannan)</webMaster>
     <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://amorris28.github.io/bohannan_website/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/bohannan_website/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Sample</title>
-      <link>https://amorris28.github.io/bohannan_website/post/2016-03-08-code-sample/</link>
+      <link>/bohannan_website/post/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>bohannan@uoregon.edu (Brendan Bohannan)</author>
-      <guid>https://amorris28.github.io/bohannan_website/post/2016-03-08-code-sample/</guid>
+      <guid>/bohannan_website/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     
