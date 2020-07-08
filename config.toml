@@ -1,4 +1,4 @@
-baseurl = "https://dreamy-ardinghelli-683862.netlify.app/"
+baseurl = "https://bohannan-lab.netlify.app/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Bohannan Lab"
@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Author]
   name = "Brendan Bohannan"
-  website = "https://dreamy-ardinghelli-683862.netlify.app/"
+  website = "https://bohannan-lab.netlify.app/"
   email = "bohannan@uoregon.edu"
 #  facebook = "username"
 #  github = "username"
