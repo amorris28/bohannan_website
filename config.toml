@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Author]
   name = "Brendan Bohannan"
-  website = "bohannanlab.org"
+  website = "https://dreamy-ardinghelli-683862.netlify.app/"
   email = "bohannan@uoregon.edu"
 #  facebook = "username"
 #  github = "username"
