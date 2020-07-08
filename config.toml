@@ -77,17 +77,17 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "People"
-    url = "page/people/"
+    url = "people"
     weight = 1
 
 [[menu.main]]
     name = "Research"
-    url = "page/research/"
+    url = "research"
     weight = 2
 
 [[menu.main]]
     name = "Publications"
-    url = "page/pubs/"
+    url = "pubs"
     weight = 3
 
 [[menu.main]]
