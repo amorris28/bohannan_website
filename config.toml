@@ -17,8 +17,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = ""
-  mainSections = ["post","posts"]
+  subtitle = "Microbial Ecology and Community Ecology"
+#  mainSections = ["post","posts"]
 #  logo = "img/bohannan.png" # Expecting square dimensions
 #  favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"

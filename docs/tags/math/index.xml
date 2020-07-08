@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on Bohannan Lab</title>
-    <link>/bohannan_website/tags/math/</link>
+    <link>https://amorris28.github.io/bohannan_website/tags/math/</link>
     <description>Recent content in math on Bohannan Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>bohannan@uoregon.edu (Brendan Bohannan)</managingEditor>
     <webMaster>bohannan@uoregon.edu (Brendan Bohannan)</webMaster>
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/bohannan_website/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amorris28.github.io/bohannan_website/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Math Sample</title>
-      <link>/bohannan_website/post/2017-03-05-math-sample/</link>
+      <link>https://amorris28.github.io/bohannan_website/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>bohannan@uoregon.edu (Brendan Bohannan)</author>
-      <guid>/bohannan_website/post/2017-03-05-math-sample/</guid>
+      <guid>https://amorris28.github.io/bohannan_website/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 &lt;p&gt;$$
 \phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
