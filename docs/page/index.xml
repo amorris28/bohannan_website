@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Beautiful Hugo</title>
+    <title>Pages on Bohannan Lab</title>
     <link>https://username.github.io/bohannan_website/page/</link>
-    <description>Recent content in Pages on Beautiful Hugo</description>
+    <description>Recent content in Pages on Bohannan Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>bohannan@uoregon.edu (Brendan Bohannan)</managingEditor>
+    <webMaster>bohannan@uoregon.edu (Brendan Bohannan)</webMaster>
     
 	<atom:link href="https://username.github.io/bohannan_website/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>About me</title>
       <link>https://username.github.io/bohannan_website/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>bohannan@uoregon.edu (Brendan Bohannan)</author>
       <guid>https://username.github.io/bohannan_website/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
