@@ -56,6 +56,8 @@ Lab Phone:541-346-5279
 
 ### Research Topics
 
+![Andrew Morris](/img/morris.jpg)
+
 # Andrew Morris
 ## PhD Student
 
