@@ -4,6 +4,8 @@ date: 2018-02-20
 
 ---
 
+![Brendan Bohannan](img/bohannan.jpeg)
+
 # Brendan Bohannan
 ## Laboratory PI
 
@@ -21,6 +23,7 @@ Brendan joined the University of Oregon faculty in 2006, after 9 years on the St
 bohannan@uoregon.edu
 
 Phone: 541-346-4883
+
 Lab Phone:541-346-5279
 
 
