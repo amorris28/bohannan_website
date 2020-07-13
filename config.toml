@@ -92,7 +92,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "CV"
-    url = ""
+    url = "files/BohannanWebCV.doc"
     weight = 4
 
 #[[menu.main]]
