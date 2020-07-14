@@ -12,6 +12,26 @@ date: 2018-02-20
 </a>
 <br clear="all" />
 
+---
+
+## Beth Miller
+### Postdoctoral Scholar
+
+---
+
+## Karen Adair
+### Postdoctoral Scholar
+
+---
+
+## Hannah Tavalire
+### Postdoctoral Scholar
+
+---
+
+## Cathy Robinson
+### Postdoctoral Scholar
+
 
 ---
 

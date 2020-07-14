@@ -1,6 +1,6 @@
 ---
 title: "Brendan Bohannan"
-subtitle: Lab PI 
+subtitle: Alec & Kay Keith Professor, Professor of Environmental Studies and Biology 
 ---
 
 
@@ -19,8 +19,6 @@ Community Ecology, Microbial Ecology
 Brendan joined the University of Oregon faculty in 2006, after 9 years on the Stanford University faculty. He is fascinated with the diversity of microbial life, and the interactions between humans and microbes.
 
 ### Contact
-bohannan@uoregon.edu
-
-Phone: 541-346-4883
-
+bohannan@uoregon.edu  
+Phone: 541-346-4883  
 Lab Phone: 541-346-5279
