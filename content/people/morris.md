@@ -3,9 +3,9 @@ title: "Andrew Morris"
 subtitle: PhD Student 
 ---
 
-{{< gallery >}}
-  {{< figure thumb="_tn" src="/img/morris.jpg" alt="Andrew Morris">}}
-{{< /gallery >}} 
+<img src="/img/morris.jpg" alt="Andrew Morris" align="left">
+<br clear="all" />
+
 
 <!--more-->
 ### Education
@@ -17,3 +17,6 @@ Microbial, community, and ecosystem ecologies
 
 ### Contact
 amorris3@uoregon.edu
+
+### Website
+[ahmorris.org](https://ahmorris.org/)

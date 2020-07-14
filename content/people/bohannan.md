@@ -4,9 +4,8 @@ subtitle: Lab PI
 ---
 
 
-{{< gallery >}}
-  {{< figure thumb="_tn" src="/img/bohannan.jpg" alt="Brendan Bohannan">}}
-{{< /gallery >}} 
+<img src="/img/bohannan.jpg" alt="Brendan Bohannan" align="left">
+<br clear="all" />
 
 <!--more-->
 ### Education
@@ -24,4 +23,4 @@ bohannan@uoregon.edu
 
 Phone: 541-346-4883
 
-Lab Phone:541-346-5279
+Lab Phone: 541-346-5279
