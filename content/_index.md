@@ -1,4 +1,4 @@
-##Microbial Biodiversity in a Changing World
+## Microbial Biodiversity in a Changing World
 
 Biodiversity – the variety of life –has fascinated people for a very long time. Although we now know a great deal about the biodiversity of plants and animals, we know very little about the biodiversity of the smallest forms of life: bacteria, viruses, and other microscopic creatures. This is despite the fact that microorganisms comprise most of life’s diversity, are the most abundant creatures on Earth and are intimately involved in the environmental processes that sustain all of life.
 

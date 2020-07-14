@@ -6,7 +6,7 @@ title: Teaching
 
 BI283H Honors Biology III: Evolution and Ecology [syllabus](https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/a/5158/files/2019/03/bi283Hs19-16o242n.pdf)
 
-BI410/510 The Human Microbiome [syllabus](https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/a/5158/files/2018/12/bi410w19_bb-sk45k0.pdf)
+BI410/510 The Human Microbiome [syllabus](https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/a/5158/files/2018/12/bi410w19_bb-sk45k0.pdf)  
 This course is co-taught with Hannah Tavalire.
 
 BI472/572 Community Ecology [syllabus](https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/a/5158/files/2020/02/bi472w20.pdf)
@@ -28,14 +28,14 @@ Department of Biology, University of Oregon (2006 – 2007).
 
  
 
-Brendan’s approach to teaching takes advantage of current research in education, psychology and pedagogy.
+### Brendan’s approach to teaching takes advantage of current research in education, psychology and pedagogy.
 
-Theory and Research-based Principles of Learning
+[Theory and Research-based Principles of Learning](https://www.cmu.edu/teaching/principles/learning.html)
 
-Teaching Issues and Experiments in Ecology
+[Teaching Issues and Experiments in Ecology](https://tiee.esa.org/)
 
-Death to the Syllabus!
+[Death to the Syllabus!](https://www.aacu.org/publications-research/periodicals/death-syllabus)
 
-Tomorrow’s Professor
+[Tomorrow’s Professor](https://tomprof.stanford.edu/)
 
  
