@@ -24,12 +24,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   commit = false
   rss = false
   comments = true
-  readingTime = true
-  wordCount = true
+  readingTime = false
+  wordCount = false
   useHLJS = true
   socialShare = true
   delayDisqus = true
-  showRelatedPosts = true
+  showRelatedPosts = false
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -94,6 +94,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "CV"
     url = "files/BohannanWebCV.doc"
     weight = 4
+    
+    
+[[menu.main]]
+    name = "Join the Lab"
+    url = ""
+    weight = 5
+
 
 #[[menu.main]]
 #    parent = "samples"

@@ -6,20 +6,20 @@ date: 2018-02-20
 
 ![Brendan Bohannan](/img/bohannan.jpeg)
 
-# Brendan Bohannan
-## Laboratory PI
+## Brendan Bohannan
+### Laboratory PI
 
-### Education
+#### Education
 1997 Michigan State University _PhD_ in Microbiology  
 1991 Humboldt State University _BS_ in Biology
 
-### Research Topics
+#### Research Topics
 Community Ecology, Microbial Ecology
 
-### About me
+#### About me
 Brendan joined the University of Oregon faculty in 2006, after 9 years on the Stanford University faculty. He is fascinated with the diversity of microbial life, and the interactions between humans and microbes.
 
-### Contact
+#### Contact
 bohannan@uoregon.edu
 
 Phone: 541-346-4883
@@ -27,34 +27,6 @@ Phone: 541-346-4883
 Lab Phone:541-346-5279
 
 
-# Beth Miller
-## Post-Doc
-
-### Education
-
-### Research Topics
-
-# Karen Adair
-## Post-Doc
-
-### Education
-
-### Research Topics
-
-
-# Hannah Tavalire
-## Post-Doc
-
-### Education
-
-### Research Topics
-
-# Felipe Campos-Cerda
-## PhD Student
-
-### Education
-
-### Research Topics
 
 ![Andrew Morris](/img/morris.jpg)
 
@@ -62,30 +34,14 @@ Lab Phone:541-346-5279
 ## PhD Student
 
 ### Education
+2017 Penn State University _MS_ in Soil Science  
+2014 Cornell University _BS_ in Plant Sciences  
 
-### Research Topics
+### Research Interests
+Microbial, community, and ecosystem ecologies
 
-# Kayla Evens
-## PhD Student
-
-### Education
-
-### Research Topics
-
-# Caitlin Smith
-## PhD Student
-
-### Education
-
-### Research Topics
-
-
-# Killian Campbell
-## Rotation Student
-
-### Education
-
-### Research Topics
+### Contact
+amorris3@uoregon.edu
 
 
 # Alumni
