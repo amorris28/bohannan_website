@@ -8,7 +8,7 @@ date: 2018-02-20
 ### Laboratory PI
 
 <a href="/people/bohannan">
-<img src="/img/bohannan.jpg" alt="Brendan Bohannan" align="left">
+<img src="/img/bohannan.jpg" alt="Brendan Bohannan" align="left"  width="225" height="225">
 </a>
 <br clear="all" />
 
@@ -24,7 +24,7 @@ date: 2018-02-20
 ### PhD Student
 
 <a href="/people/morris">
-<img src="/img/morris.jpg" alt="Andrew Morris" align="left">
+<img src="/img/morris.jpg" alt="Andrew Morris" align="left" align="left"  width="225" height="225">
 </a>
 <br clear="all" />
 
