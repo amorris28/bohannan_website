@@ -3,6 +3,10 @@ title: Recent Publications
 date: 2018-02-20
 ---
 
+[<img src="/img/scholar_logo.png" align="left">](https://scholar.google.com/citations?user=7kDEN7kAAAAJ)
+<br clear="all" />
+
+
 # Journal Articles
 
 ## 2020

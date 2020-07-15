@@ -44,7 +44,7 @@ date: 2018-02-20
 ### PhD Student
 
 <a href="/people/morris">
-<img src="/img/morris.jpg" alt="Andrew Morris" align="left" align="left"  width="225" height="225">
+<img src="/img/morris.jpg" alt="Andrew Morris" align="left" width="225" height="225">
 </a>
 <br clear="all" />
 
