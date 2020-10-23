@@ -4,7 +4,7 @@ date: 2018-02-20
 
 ---
 
-## Brendan Bohannan
+## <a href="/people/bohannan">Brendan Bohannan</a>
 ### Laboratory PI
 
 <a href="/people/bohannan">
