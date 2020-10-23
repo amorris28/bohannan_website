@@ -40,13 +40,8 @@ date: 2018-02-20
 
 ---
 
-### <a href="/people/morris">Andrew Morris</a>
+### Andrew Morris
 #### PhD Student
-
-<a href="/people/morris">
-<img src="/img/morris.jpg" alt="Andrew Morris" align="left" width="225" height="225">
-</a>
-<br clear="all" />
 
 ---
 
