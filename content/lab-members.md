@@ -19,28 +19,28 @@ date: 2018-02-20
 
 ---
 
-## Karen Adair
+### Karen Adair
 #### Postdoctoral Scholar
 
 ---
 
-## Hannah Tavalire
+### Hannah Tavalire
 #### Postdoctoral Scholar
 
 ---
 
-## Cathy Robinson
+### Cathy Robinson
 #### Postdoctoral Scholar
 
 
 ---
 
-## Felipe Campos-Cerda
+### Felipe Campos-Cerda
 #### PhD Student
 
 ---
 
-## Andrew Morris
+### <a href="/people/morris">Andrew Morris</a>
 #### PhD Student
 
 <a href="/people/morris">
@@ -50,12 +50,12 @@ date: 2018-02-20
 
 ---
 
-## Kayla Evens
+### Kayla Evens
 #### PhD Student
 
 ---
 
-## Alumni
+### Alumni
 #### Grads
 
 - Elizabeth Perry (Sloan Kettering Memorial Cancer Center)
@@ -69,7 +69,7 @@ date: 2018-02-20
 - Claire Horner-Devine (University of Washington)
 - Ben Kerr (University of Washington)
 
-### Post-docs
+#### Post-docs
 - James Meadow (Phylagen, Inc.)
 - Ronzhong Ye (UC Davis)
 - Lena Fevat (CEFAS)
@@ -81,7 +81,7 @@ date: 2018-02-20
 - Jennifer Hughes Martiny (University of California, Irvine)
 - Klaus Nuesslein (University of Massachusetts)
 
-### Technicians
+#### Technicians
 
 - Adam Altrichter (Second Genome, Inc.)
 - Evan Jones (Albert Einstein Hospital)
