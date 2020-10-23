@@ -4,8 +4,8 @@ date: 2018-02-20
 
 ---
 
-## <a href="/people/bohannan">Brendan Bohannan</a>
-### Laboratory PI
+### <a href="/people/bohannan">Brendan Bohannan</a>
+#### Laboratory PI
 
 <a href="/people/bohannan">
 <img src="/img/bohannan.jpg" alt="Brendan Bohannan" align="left"  width="225" height="225">
@@ -14,7 +14,7 @@ date: 2018-02-20
 
 ---
 
-## Beth Miller
+### Beth Miller
 #### Postdoctoral Scholar
 
 ---
@@ -41,7 +41,7 @@ date: 2018-02-20
 ---
 
 ## Andrew Morris
-### PhD Student
+#### PhD Student
 
 <a href="/people/morris">
 <img src="/img/morris.jpg" alt="Andrew Morris" align="left" width="225" height="225">
@@ -51,12 +51,12 @@ date: 2018-02-20
 ---
 
 ## Kayla Evens
-### PhD Student
+#### PhD Student
 
 ---
 
 ## Alumni
-### Grads
+#### Grads
 
 - Elizabeth Perry (Sloan Kettering Memorial Cancer Center)
 - Rebecca Mueller (LANL)
