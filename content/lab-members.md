@@ -6,6 +6,8 @@ date: 2018-02-20
 
 ### <a href="/people/bohannan">Brendan Bohannan</a>
 #### Laboratory PI
+bohannan@uoregon.edu
+
 
 <a href="/people/bohannan">
 <img src="/img/bohannan.jpg" alt="Brendan Bohannan" align="left"  width="225" height="225">
