@@ -15,28 +15,28 @@ date: 2018-02-20
 ---
 
 ## Beth Miller
-### Postdoctoral Scholar
+#### Postdoctoral Scholar
 
 ---
 
 ## Karen Adair
-### Postdoctoral Scholar
+#### Postdoctoral Scholar
 
 ---
 
 ## Hannah Tavalire
-### Postdoctoral Scholar
+#### Postdoctoral Scholar
 
 ---
 
 ## Cathy Robinson
-### Postdoctoral Scholar
+#### Postdoctoral Scholar
 
 
 ---
 
 ## Felipe Campos-Cerda
-### PhD Student
+#### PhD Student
 
 ---
 
