@@ -32,6 +32,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   showRelatedPosts = false
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#
+[[Params.bigimg]]
+  src = "img/Amazon-062.jpg"
+  desc = "Serpentine grassland at Kirby Canyon"
 
 [markup.goldmark.renderer]
 unsafe= true
