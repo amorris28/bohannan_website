@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #
 [[Params.bigimg]]
   src = "img/Amazon-062.jpg"
-  desc = "Serpentine grassland at Kirby Canyon"
+  desc = "Amazon"
 
 [markup.goldmark.renderer]
 unsafe= true
