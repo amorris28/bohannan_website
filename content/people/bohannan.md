@@ -1,6 +1,6 @@
 ---
 title: "Brendan Bohannan"
-subtitle: Alec & Kay Keith Professor, Professor of Environmental Studies and Biology 
+subtitle: James F. and Shirley K. Rippey Chair in Liberal Arts and Sciences, Professor of Environmental Studies and Biology 
 ---
 
 
