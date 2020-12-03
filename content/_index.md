@@ -1,5 +1,0 @@
-## Microbial Biodiversity in a Changing World
-
-Biodiversity – the variety of life –has fascinated people for a very long time. Although we now know a great deal about the biodiversity of plants and animals, we know very little about the biodiversity of the smallest forms of life: bacteria, viruses, and other microscopic creatures. This is despite the fact that microorganisms comprise most of life’s diversity, are the most abundant creatures on Earth and are intimately involved in the environmental processes that sustain all of life.
-
-Research in the Bohannan group is focused on the causes and consequences of microbial biodiversity. Our recent work can be divided into three areas: the study of the fundamental drivers of biodiversity (space and energy) and how these apply to microorganisms, the response of microbial biodiversity to environmental change (including global change), and microbial biodiversity in human-dominated environments.
