@@ -4,9 +4,9 @@ subtitle: PhD Student
 date: 2000-01-01
 ---
 
-<img src="/img/morris.jpg" alt="Andrew Morris" align="left">
-<br clear="all" />
-
+{{< gallery >}}
+  {{< figure thumb="_tn" src="/img/morris.jpg" alt="Andrew Morris">}}
+{{< /gallery >}}
 
 <!--more-->
 ### Education
