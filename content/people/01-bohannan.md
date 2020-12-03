@@ -1,7 +1,7 @@
 ---
 title: "Brendan Bohannan"
 subtitle: James F. and Shirley K. Rippey Chair in Liberal Arts and Sciences, Professor of Environmental Studies and Biology 
-date: 2000-01-01
+date: 2000-01-03
 ---
 
 {{< gallery >}}

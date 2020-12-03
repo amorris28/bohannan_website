@@ -1,7 +1,7 @@
 ---
 title: "Andrew Morris"
 subtitle: PhD Student 
-date: 2000-01-03
+date: 2000-01-01
 ---
 
 <img src="/img/morris.jpg" alt="Andrew Morris" align="left">
