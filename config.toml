@@ -33,17 +33,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-[[Params.bigimg]]
-  src = "img/primary_forest.jpg"
-  desc = "Amazon primary rainforest"
-
-[[Params.bigimg]]
-  src = "img/pasture1987.jpg"
-  desc = "Pasture"
-
-[[Params.bigimg]]
-  src = "img/secondaryforest.jpg"
-  desc = "Amazon secondary rainforest"
+#[[Params.bigimg]]
+#  src = "img/primary_forest.jpg"
+#  desc = "Amazon primary rainforest"
+#
+#[[Params.bigimg]]
+#  src = "img/pasture1987.jpg"
+#  desc = "Pasture"
+#
+#[[Params.bigimg]]
+#  src = "img/secondaryforest.jpg"
+#  desc = "Amazon secondary rainforest"
 
 [markup.goldmark.renderer]
 unsafe= true
