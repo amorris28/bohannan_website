@@ -23,10 +23,10 @@ to ecosystem functions: what we can learn from genotype-phenotype mapping
 in organisms. [Philos. Trans. Royal Soc. B](https://royalsocietypublishing.org/journal/rstb)
 doi: [10.1098/rstb.2019.0244](https://doi.org/10.1098/rstb.2019.0244)
 
-Babur S. Mirza, Daniel J. McGlinn, Brendan J. M. Bohannan, Klaus Nüsslein, James M. Tiedje, Jorge L. M. Rodrigues (2020) Diazotrophs Show Signs of Restoration in Amazon Rain Forest Soils with Ecosystem Rehabilitation.
+Mirza BS, McGlinn DJ, Bohannan BJM, Nüsslein K, Tiedje JM, Rodrigues JLM (2020) Diazotrophs Show Signs of Restoration in Amazon Rain Forest Soils with Ecosystem Rehabilitation.
 [Applied and Environmental Microbiology]() doi: [10.1128/AEM.00195-20](https://doi.org/10.1128/AEM.00195-20)
 
-Felipe Campos-Cerda, Brendan J.M. Bohannan,
+Campos-Cerda F, Bohannan BJM (2020)
 The Nidobiome: A Framework for Understanding Microbiome Assembly in Neonates,
 [Trends in Ecology & Evolution](https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution)
 doi: [10.1016/j.tree.2020.03.007](https://doi.org/10.1016/j.tree.2020.03.007)
