@@ -85,7 +85,7 @@ unsafe= true
 
 [[menu.main]]
     name = "Research"
-    url = "research"
+    url = "/research/"
     weight = 2
 
 [[menu.main]]
@@ -99,10 +99,9 @@ unsafe= true
     url = "teaching"
     weight = 3
     
-
 #[[menu.main]]
 #    name = "CV"
-#    url = "https://docs.google.com/document/d/1ufh16p-_5fgdizj7fSN15JvCK5D3ElD81Egu3j1H9X4/edit?usp=sharing"
+#    url = "https://docs.google.com/document/d/e/2PACX-1vQyfDOWHsJ-wrDMpLQHzj_aiyjYPbPJnJMrdzGqN5fMrvkzLGrhE4kH35hiBGKGoKbuNhj68ADTYdHD/pub"
 #    weight = 4
 
 [[menu.main]]
