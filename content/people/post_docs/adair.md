@@ -4,7 +4,6 @@ subtitle: Post-doctoral Scholar
 date: 2000-01-02
 ---
 
-<!--more-->
 ### Education
 
 ### Research Interests
@@ -12,4 +11,5 @@ date: 2000-01-02
 ### Contact
 kadair@uoregon.edu
 
+<!--more-->
 ### Website
