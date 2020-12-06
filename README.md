@@ -4,6 +4,8 @@ The Bohannan Lab website, [bohannanlab.org](bohannanlab.org), was created using 
 
 ---
 
+## Downloading from and uploading to github
+
 The website source content is at https://github.com/amorris28/bohannan_website and is hosted on [Netlify](netlify.com). Any changes pushed to the github project will automatically be updated through netlify and should be rendered within moments. To modify the website, you need `git` installed. If you want to work on it in R Studio you will also need R and R Studio installed. Alternatively, you can edit the text files with whatever text editor you choose.
 
 On the command line, navigate to the directory on your local computer that you would like to contain the directory for the website source code. Then type:
@@ -12,9 +14,10 @@ On the command line, navigate to the directory on your local computer that you w
 git clone git@github.com:amorris28/bohannan_website.git
 ```
 
-which will create a new folder called `bohannan_website/` and then download the source code into that folder. 
+which will create a new directory called `bohannan_website/` and then download the source code into that directory. 
 
-Each time you sit down to modify the website, first use the command:
+Each time you sit down to modify the website, use the command line to navigate to
+the `bohannan_website/` directory and enter the command:
 
 ```
 git pull
@@ -43,6 +46,8 @@ git push
 which should upload those changes to github and publish them through netlify.
 
 ---
+
+## Website Organization
 
 Overall, the website is organized with this directory structure:
 
@@ -76,9 +81,9 @@ research.md
 teaching.md
 ```
 
-`_index.md` contains text that is rendered on the homepage (bohannanlab.org) if you'd like to add a blurb there. Each of the other `.md` files is a separate webpage whose url is determined by the name of the file (e.g., `join.md` is the content for [bohannanlab.org/join](bohannanlab.org/join). The `people/` directory contains the content for bohannanlab.org/people with a separate file for each member of the lab. These files are organized by type of position with a separate directory for PhD students, post-docs, and undergrads. If you would like to add a new PhD student, for example, simply navigate to the `phd/` subdirectory and copy one of the existing files and rename it to the new student's last name and change the content within however you like. Save it within the same folder and push the website to github as described earlier. This should update bohannanlab.org/people to include that person.
+`_index.md` contains text that is rendered on the homepage ([bohannanlab.org](bohannanlab.org)) if you'd like to add a blurb there. Each of the other `.md` files is a separate webpage whose url is determined by the name of the file (e.g., `join.md` is the content for [bohannanlab.org/join](bohannanlab.org/join). The `people/` directory contains the content for [bohannanlab.org/people](bohannanlab.org/people) with a separate file for each member of the lab. These files are organized by type of position with a separate directory for PhD students, post-docs, and undergrads. If you would like to add a new PhD student, for example, simply navigate to the `phd/` subdirectory and copy one of the existing files and rename it to the new student's last name and change the content within however you like. Save it within the same folder and push the website to github as described earlier. This should update [bohannanlab.org/people](bohannanlab.org/people) to include that person.
 
-Note: The list of people on bohannanlab.org/people is organized first by the _date in the individual `.md` file_ and then _alphabetically by the `title` in the individual `.md` files_. Right now, I have it set up so `bohannan.md` has the most recent date to put him first, then the post-docs all have the same date, the phds have the next date, and the undegrads have the next date. That way, they will be organized in order of position (first Brendan, then post-docs, then PhDs, then undergrads) and ordered alphabetically within each of those positions. 
+Note: The list of people on [bohannanlab.org/people](bohannanlab.org/people) is organized first by the _date in the individual `.md` file_ and then _alphabetically by the `title` in the individual `.md` files_. Right now, I have it set up so `bohannan.md` has the most recent date to put him first, then the post-docs all have the same date, the phds have the next date, and the undegrads have the next date. That way, they will be organized in order of position (first Brendan, then post-docs, then PhDs, then undergrads) and ordered alphabetically within each of those positions. 
 
 The `research/` subdirectory contains separate pages for each research project with the same organization as the `people/` pages. 
 
@@ -86,7 +91,7 @@ The `research/` subdirectory contains separate pages for each research project w
 
 ## Layout
 
-Back to the top directory, the `layout/` subdirectory contains custom `.html` files to modify some of the styles on the website. The `themes/` subdirectory contains the default `.html` files for the theme. Therefore, the `layout/` files override the `themes/` files and follow the same directory organization. **These can be safely ignored if you don't want to delve into customizing any html**
+Back to the top directory, the `themes/` subdirectory contains the default `.html` files that determine how the website looks. The `layout/` subdirectory contains custom `.html` files in the same organization as the `themes/` directory to modify any of the styles on the website. The `layout/` files _override_ the `themes/` files. Any customizations done to the website should be done by copying `themes/` files to the `layout/` directory and editting them there. **These can be safely ignored if you don't want to delve into customizing any html.**
 
 ---
 
