@@ -99,15 +99,15 @@ unsafe= true
     url = "teaching"
     weight = 3
     
+[[menu.main]]
+    name = "Brendan's CV"
+    url = "https://docs.google.com/document/d/e/2PACX-1vQyfDOWHsJ-wrDMpLQHzj_aiyjYPbPJnJMrdzGqN5fMrvkzLGrhE4kH35hiBGKGoKbuNhj68ADTYdHD/pub"
+    weight = 4
+
 #[[menu.main]]
 #    name = "CV"
-#    url = "https://docs.google.com/document/d/e/2PACX-1vQyfDOWHsJ-wrDMpLQHzj_aiyjYPbPJnJMrdzGqN5fMrvkzLGrhE4kH35hiBGKGoKbuNhj68ADTYdHD/pub"
+#    url = "cv"
 #    weight = 4
-
-[[menu.main]]
-    name = "CV"
-    url = "cv"
-    weight = 4
     
     
 [[menu.main]]
