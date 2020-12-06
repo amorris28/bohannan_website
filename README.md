@@ -12,7 +12,16 @@ On the command line, navigate to the directory on your local computer that you w
 git clone git@github.com:amorris28/bohannan_website.git
 ```
 
-which will create a new folder called `bohannan_website/` and then download the source code into that folder. You can then modify the local files in R Studio or at the command line, whichever you prefer. Once you've made changes, you should navigate back to the  `bohannan_website/` directory and enter:
+which will create a new folder called `bohannan_website/` and then download the source code into that folder. 
+
+Each time you sit down to modify the website, first use the command:
+
+```
+git pull
+```
+
+to check that your local files match the github files and to download any changes on github to your local machine so that the two are in
+agreement. You can then modify the local files in R Studio or at the command line, whichever you prefer. Once you've made changes, you should navigate back to the  `bohannan_website/` directory and enter:
 
 ```
 git status
@@ -48,7 +57,7 @@ index.Rmd
 netlify.toml
 ```
 
-The top directory contains an `.Rproj` if you work with R projects in R Studio. It also contains `config.toml` which is the main configuration page for the website where you set up the menus at the top of each page, the website url, etc. `index.Rmd` probably won't change. `netlify.toml` contains the configurations for netlify like what version of Hugo to render the website with. 
+The top directory contains an `.Rproj` in case you're familiar with using R projects in R Studio. It also contains `config.toml` which is the main configuration page for the website where you set up the menus at the top of each page, the website url, etc. `index.Rmd` probably won't change. `netlify.toml` contains the configurations for netlify like what version of Hugo to render the website with. There are also several "hidden" files whose filenames start with a `.`. For example, `.nojekyll` tells netlify not to use `jekyll` to render the website. `.gitignore` is simply a text file that tells git which files not to keep track of. Currently, it ignores an R history or user-specific R settings in `.Rhistory` or `.Rproj.user`. It also ignores the `public/` folder which is where `blogdown` renders the website locally if you use that package to edit and test the website.
 
 ---
 
