@@ -101,14 +101,8 @@ unsafe= true
     
 [[menu.main]]
     name = "Brendan's CV"
-    url = "https://docs.google.com/document/d/e/2PACX-1vQyfDOWHsJ-wrDMpLQHzj_aiyjYPbPJnJMrdzGqN5fMrvkzLGrhE4kH35hiBGKGoKbuNhj68ADTYdHD/pub"
+    url = "https://docs.google.com/document/d/1ufh16p-_5fgdizj7fSN15JvCK5D3ElD81Egu3j1H9X4/edit"
     weight = 4
-
-#[[menu.main]]
-#    name = "CV"
-#    url = "cv"
-#    weight = 4
-    
     
 [[menu.main]]
     name = "Join the Lab"
