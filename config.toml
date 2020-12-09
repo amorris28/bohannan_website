@@ -13,6 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+paginate = 14
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -77,37 +78,43 @@ unsafe= true
 #  kaggle = "username"
 #  weibo = "username"
 #  slack = "username"
+#
+#
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
     name = "People"
     url = "/people/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Research"
     url = "/research/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Publications"
     url = "publications"
-    weight = 3
+    weight = 4
     
 
 [[menu.main]]
     name = "Teaching"
     url = "teaching"
-    weight = 3
+    weight = 5
     
 [[menu.main]]
     name = "Brendan's CV"
     url = "https://docs.google.com/document/d/1ufh16p-_5fgdizj7fSN15JvCK5D3ElD81Egu3j1H9X4/edit"
-    weight = 4
+    weight = 6
     
 [[menu.main]]
     name = "Join the Lab"
     url = "join"
-    weight = 5
+    weight = 7
 
 
 #[[menu.main]]
