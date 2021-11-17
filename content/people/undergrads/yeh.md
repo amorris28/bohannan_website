@@ -1,6 +1,6 @@
 ---
 title: "Emily Yeh"
-subtitle: Undergraduate Research Assistant 
+subtitle: Laboratory Technician 
 date: 1999-01-01
 ---
 
