@@ -2,6 +2,7 @@
 title: "Andrew Morris"
 subtitle: PhD Student 
 date: 2000-01-01
+url: "https://ahmorris.org"
 ---
 
 {{< gallery >}}
