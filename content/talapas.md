@@ -13,7 +13,11 @@ Use `ssh` to login through the terminal:
 ssh username@talapas-login.uoregon.edu
 ```
 
-Use `scp` to copy files to/from your local machine. Adding the `-r` flag lets you copy whole directories and all of the files within that directory. Enclosing filenames in \{\} allows you to list multiple files separated by commas. Some examples of its usage:
+To login to a virtual desktop environment, navigate to [talapas-login.uoregon.edu](talapas-login.uoregon.edu) with your browser.
+
+## Copying files to/from Talapas
+
+Use `scp` to copy files to/from your local machine. Adding the `-r` flag lets you copy whole directories and all of the files within that directory. Enclosing filenames in `\{\}` allows you to list multiple files separated by commas. Some examples of its usage:
 
 ```{bash}
 scp ~/myfile.tsv username@talapas-login.uoregon.edu:./projects/my_project                          # Copying one file from local to Talapas
@@ -21,8 +25,6 @@ scp username@talapas-login.uoregon.edu:./projects/my_project/myfile.tsv ~/      
 scp -r ~/my_directory username@talapas-login.uoregon.edu:./projects/my_project                     # Copying one directory from local to Talapas
 scp username@talapas-login.uoregon.edu:./projects/my_project/\{file1.tsv,file2.tsv,file3.tsv\} ~/  # Copying multiple files from Talapas to local
 ```
-
-To login to a virtual desktop environment go to [talapas-login.uoregon.edu](talapas-login.uoregon.edu) with your browser.
 
 ## Submitting a job to slurm
 
@@ -49,13 +51,13 @@ An example batch script:
 #SBATCH --ntasks-per-node=1     ### number of tasks per node
 #SBATCH --cpus-per-task=28      ### number of cores/CPUs
 #SBATCH -A crobe                ### account
-module load R/3.6.1 # optional if you want to load a specific version
+module load R/3.6.1
 cd projects/Royal_Society/R
 Rscript var_comp.R
 ```
 
 A batch script is essentially just a normal `bash` script with some extra
-parameters at the top, which slurm reads. You should a
+parameters at the top, which slurm reads. You should specify a
 `--partition`, a `--job-name` and where to put `--output` and `--error`.
 `--time` sets the time in minutes. `--nodes` and `--ntasks-per-node` will
 pretty much always by equal to `1` for `R` jobs. You can set how many
@@ -70,7 +72,7 @@ the project directory.
 Run a batch script by typing `sbatch` and then the name of the batch script
 (the filename extension doesn't matter so I usually just use `.batch`). The
 script will run in the directory you call it from. So if you're in your home
-directory and you want to run commands in another directory, you have have to
+directory and you want to run commands in another directory, you have to
 add some `cd` commands to the batch script to navigate to where you want the commands to run. Or
 you can `cd` to the project directory and run the batch script from there.
 Alternatively, you can just add filepaths to the commands.
@@ -152,7 +154,7 @@ manually install all of the packages you need this way (with the appropriate
 `R` module loaded) before submitting a batch script. When you run
 `install.package()` from talapas it will ask you to select a mirror from which
 to download the files. I usually choose the OSU one. In addition, it will
-probably tell you you do not have write permissions and will ask if you want to
+probably tell you that you do not have write permissions and will ask if you want to
 install packages to a personal library. You should say `yes`.
 
 ## Running an `R` script from the command line
@@ -241,7 +243,7 @@ conda env list
 
 ## How to install a specific version of `qiime2` on Talapas using `miniconda`
 
-When you do this, you should go to the [qiime2 docs](https://docs.qiime2.org/) under "Installing QIIME 2" and run the commands from there to get the latest version. This will create a miniconda environment specific to *your* talapas user account. Below, I have copied how to do this for the [current version (version 2020.2)](https://docs.qiime2.org/2020.2/install/native/) as an example.
+When you do this, you should go to the [qiime2 docs](https://docs.qiime2.org/) under "Installing QIIME 2" and run the commands from there to get the latest version. This will create a miniconda environment specific to *your* talapas user account. Below, I have copied how to do this for a [previous version (version 2020.2)](https://docs.qiime2.org/2020.2/install/native/) as an example.
 
 First, if you haven't already, activate the `miniconda` module:
 
@@ -258,7 +260,7 @@ conda env create -n qiime2-2020.2 --file qiime2-2020.2-py36-linux-conda.yml
 rm qiime2-2020.2-py36-linux-conda.yml
 ```
 
-Then any time you what to use that version simply run:
+Then any time you want to use that version simply run:
 
 ```{bash}
 conda activate qiime2-2020.2
@@ -282,6 +284,8 @@ cd 			# cd to make sure you're in your home directory
 echo 'module load miniconda' >> .bashrc
 echo 'module load R/4.0.2' >> .bashrc
 ```
+
+(Be sure you use `>>`, not `>`, because `>` will overwrite your `.bashrc`.)
 
 Or you can edit it with your favorite text editor. It's saved at this location:
 ```
