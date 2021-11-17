@@ -9,6 +9,10 @@ date: 2000-01-01
 {{< /gallery >}}
 
 <!--more-->
+### Publications
+[<img src="/img/scholar_logo.png" align="left">](https://scholar.google.co.uk/citations?user=bFq6ZowAAAAJ)
+<br clear="all" />
+
 ### Education
 2017 Penn State University _MS_ in Soil Science  
 2014 Cornell University _BS_ in Plant Sciences  
