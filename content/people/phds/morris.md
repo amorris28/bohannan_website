@@ -1,5 +1,5 @@
 ---
-title: "Test Andrew Morris"
+title: "Andrew Morris"
 subtitle: PhD Student 
 date: 2000-01-01
 ---
