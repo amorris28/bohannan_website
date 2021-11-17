@@ -1,6 +1,6 @@
 ---
 title: "Mashal Copperman"
-subtitle: Undergraduate Research Fellow 
+subtitle: Postbaccalaureate Research Fellow 
 date: 1999-01-01
 ---
 
