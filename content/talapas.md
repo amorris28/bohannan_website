@@ -13,7 +13,7 @@ Use `ssh` to login through the terminal:
 ssh username@talapas-login.uoregon.edu
 ```
 
-To login to a virtual desktop environment, navigate to [talapas-login.uoregon.edu](talapas-login.uoregon.edu) with your browser.
+To login to a virtual desktop environment, navigate to [talapas-login.uoregon.edu](https://talapas-login.uoregon.edu) with your browser.
 
 ## Copying files to/from Talapas
 
