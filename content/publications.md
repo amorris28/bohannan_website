@@ -7,7 +7,7 @@ date: 2018-02-20
 <br clear="all" />
 
 
-## Recent Publications
+### Recent Publications
 
 Cioffi CC, Tavalire HF, Neiderhiser JM, Bohannan B, Leve LD (2020) History of breastfeeding but not mode of delivery shapes the gut microbiome in childhood. [PLoS ONE](https://journals.plos.org/plosone/) 
 doi: [10.1371/journal.pone.0235223](https://doi.org/10.1371/journal.pone.0235223)
