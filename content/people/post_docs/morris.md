@@ -1,7 +1,7 @@
 ---
 title: "Andrew Morris"
-subtitle: PhD Student 
-date: 2000-01-01
+subtitle: Post-Doctoral Scholar 
+date: 2000-01-02
 ---
 
 {{< gallery >}}
@@ -14,6 +14,7 @@ date: 2000-01-01
 <br clear="all" />
 
 ### Education
+2020 University of Oregon _PhD_ in Biology
 2017 Penn State University _MS_ in Soil Science  
 2014 Cornell University _BS_ in Plant Sciences  
 
