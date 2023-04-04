@@ -46,6 +46,10 @@ paginate = 14
 #  src = "img/secondaryforest.jpg"
 #  desc = "Amazon secondary rainforest"
 
+[[Params.bigimg]]
+  src = "img/lab_photo_March_2023.jpg"
+  desc = "The Bohannan Lab in March 2023"
+
 [markup.goldmark.renderer]
 unsafe= true
 
