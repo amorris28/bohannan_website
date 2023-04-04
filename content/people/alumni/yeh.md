@@ -2,6 +2,7 @@
 title: "Emily Yeh"
 subtitle: Laboratory Technician 
 date: 1999-01-01
+draft: true
 ---
 
 {{< gallery >}}
