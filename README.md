@@ -1,5 +1,11 @@
 # How to manage the Bohannan Lab website
 
+## Website is no longer active
+
+This website has been taken down from Netlify. If you wish to re-use the content from this repo, I suggest you re-initialize it in a new [blogdown](https://bookdown.org/yihui/blogdown/) or [quarto](https://quarto.org/docs/websites/) website and move the content over.
+
+---
+
 The Bohannan Lab website, [bohannanlab.org](bohannanlab.org), was created using the `R` package `blogdown` with the [BeautifulHugo](https://themes.gohugo.io/beautifulhugo/) theme from the [Hugo](https://gohugo.io/) framework. For any questions about how to modify anything, seek out the [Hugo documentation](https://gohugo.io/documentation/) or the [`blogdown` book](https://bookdown.org/yihui/blogdown/).
 
 ---
